@@ -32,7 +32,11 @@ public class Solution {
 
 
     public static void main(String[] args) {
-        Solution test = new Solution();
-        test.print1ToMaxOfNDigits(3);
+        String s = "C/KZl4ErlJxwcJsXHTEViyBzDg5z,ORSCgJqm6+4Xj6sJBdOc1Z+OAgKO";
+        String s2 = "C/KZl4ErlJxwcJsXHTEViyBzDg5z,ORSCgJqm6+4Xj6sJBdOc1Z+OAgKO";
+        if (s.equals(s2)){
+            System.out.println("yes!");
+
+        }
     }
 }
