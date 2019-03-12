@@ -1,5 +1,8 @@
 package newcode;
 
+import java.util.ArrayList;
+import java.util.TreeSet;
+
 public class Solution {
 
     public void print1ToMaxOfNDigits(int n) {
@@ -34,6 +37,9 @@ public class Solution {
     public static void main(String[] args) {
         String s = "C/KZl4ErlJxwcJsXHTEViyBzDg5z,ORSCgJqm6+4Xj6sJBdOc1Z+OAgKO";
         String s2 = "C/KZl4ErlJxwcJsXHTEViyBzDg5z,ORSCgJqm6+4Xj6sJBdOc1Z+OAgKO";
+//        StringBuffer
+//                StringBuilder
+
         if (s.equals(s2)){
             System.out.println("yes!");
 
