@@ -2,6 +2,7 @@ package newcode;
 
 import java.util.ArrayList;
 import java.util.TreeSet;
+import java.util.concurrent.*;
 
 public class Solution {
 
@@ -42,7 +43,26 @@ public class Solution {
 
         if (s.equals(s2)){
             System.out.println("yes!");
+        }
+//        ThreadFactory factory = new ThreadFactoryBuilder();execu
+        ExecutorService service = new ThreadPoolExecutor(10, 100, 0L, TimeUnit.MILLISECONDS, new ArrayBlockingQueue<Runnable>(10));
+//        s.wait();
+    }
 
+    class testCallable implements Callable{
+
+
+        /**
+         * Computes a result, or throws an exception if unable to do so.
+         *
+         * @return computed result
+         * @throws Exception if unable to compute a result
+         */
+        @Override
+        public Object call() throws Exception {
+            return null;
         }
     }
+
+
 }
