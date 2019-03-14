@@ -19,6 +19,7 @@ public class PrintLinkfromEnd {
     /** 
     * @Description: 两个指针，第一个指针移动，第二个指针从第一个指针的位置向后探测k-1步，因为倒数第k个还能往前走k-1步
      * 若探测到末尾，就找到了倒数第k个位置，返回p1即可
+     *
     * @Param:  
     * @return:  
     * @Author: co1de
@@ -29,7 +30,8 @@ public class PrintLinkfromEnd {
         ListNode p1 = head;
         ListNode p2 = head;
         int step=0;
-        while (p1.next!=null){
+        //修改p1.next！=null如下，不用判断最后，链表都可以这样来用最后节点判断，用next判断可能掉尾节点。
+        while (p1!=null){
             step=0;
             while (step<k-1){
                 if (p2.next!=null){
@@ -45,7 +47,7 @@ public class PrintLinkfromEnd {
 
         }
         //防止最后一个漏掉
-        if(k==1) return p1;
+//        if(k==1) return p1;
         return null;
     }
 

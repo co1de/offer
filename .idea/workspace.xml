@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef22809c-c261-4985-be1f-e4dbc8e86510" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/newcode/PrintLinkfromEnd.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/newcode/Solution.java" afterPath="$PROJECT_DIR$/src/newcode/Solution.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/newcode/PrintLinkfromEnd.java" afterPath="$PROJECT_DIR$/src/newcode/PrintLinkfromEnd.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,8 +60,8 @@
       <file leaf-file-name="PrintLinkfromEnd.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/newcode/PrintLinkfromEnd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            <state relative-caret-position="225">
+              <caret line="34" column="11" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="47" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -423,12 +422,12 @@
       <workItem from="1551516013275" duration="19629000" />
       <workItem from="1552044682784" duration="9742000" />
       <workItem from="1552135469435" duration="16827000" />
-      <workItem from="1552529513622" duration="8361000" />
+      <workItem from="1552529513622" duration="8977000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132567000" />
+    <option name="totallyTimeSpent" value="133183000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -908,8 +907,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/newcode/PrintLinkfromEnd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        <state relative-caret-position="225">
+          <caret line="34" column="11" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="47" selection-end-column="9" />
           <folding />
         </state>
       </provider>
