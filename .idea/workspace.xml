@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef22809c-c261-4985-be1f-e4dbc8e86510" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/newcode/ReverseLink.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/newcode/CircleLink.java" afterPath="$PROJECT_DIR$/src/newcode/CircleLink.java" />
     </list>
@@ -18,7 +19,7 @@
       <file leaf-file-name="MatrixPath.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/newcode/MatrixPath.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-58">
+            <state relative-caret-position="250">
               <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding />
             </state>
@@ -28,7 +29,7 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/newcode/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="1225">
               <caret line="49" column="5" lean-forward="false" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -50,28 +51,28 @@
       <file leaf-file-name="PrintLinkfromEnd.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/newcode/PrintLinkfromEnd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
+            <state relative-caret-position="1400">
               <caret line="56" column="11" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="64" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CircleLink.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CircleLink.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/newcode/CircleLink.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="179" lean-forward="false" selection-start-line="16" selection-start-column="179" selection-end-line="16" selection-end-column="179" />
+            <state relative-caret-position="78">
+              <caret line="65" column="20" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="74" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NumberOnes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/newcode/NumberOnes.java">
+      <file leaf-file-name="ReverseLink.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/newcode/ReverseLink.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="-150">
+              <caret line="12" column="64" lean-forward="false" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -184,6 +185,7 @@
         <option value="$PROJECT_DIR$/src/newcode/Solution.java" />
         <option value="$PROJECT_DIR$/src/newcode/PrintLinkfromEnd.java" />
         <option value="$PROJECT_DIR$/src/newcode/CircleLink.java" />
+        <option value="$PROJECT_DIR$/src/newcode/ReverseLink.java" />
       </list>
     </option>
   </component>
@@ -193,7 +195,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -215,9 +217,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -240,6 +239,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -266,7 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CircleLink">
+  <component name="RunManager" selected="Application.ReverseLink">
     <configuration name="CircleLink" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -324,14 +326,14 @@
       <module name="offer" />
       <envs />
     </configuration>
-    <configuration name="RegexMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="RegexMatch2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="newcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="newcode.RegexMatch" />
+      <option name="MAIN_CLASS_NAME" value="newcode.RegexMatch2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -343,14 +345,14 @@
       <module name="offer" />
       <envs />
     </configuration>
-    <configuration name="RegexMatch2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseLink" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="newcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="newcode.RegexMatch2" />
+      <option name="MAIN_CLASS_NAME" value="newcode.ReverseLink" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -378,19 +380,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.RegexMatch" />
-      <item index="1" class="java.lang.String" itemvalue="Application.RegexMatch2" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MakeJBeforeO" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PrintLinkfromEnd" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CircleLink" />
+      <item index="0" class="java.lang.String" itemvalue="Application.RegexMatch2" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MakeJBeforeO" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PrintLinkfromEnd" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CircleLink" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ReverseLink" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CircleLink" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PrintLinkfromEnd" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MakeJBeforeO" />
-        <item index="3" class="java.lang.String" itemvalue="Application.RegexMatch2" />
-        <item index="4" class="java.lang.String" itemvalue="Application.RegexMatch" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ReverseLink" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CircleLink" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PrintLinkfromEnd" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MakeJBeforeO" />
+        <item index="4" class="java.lang.String" itemvalue="Application.RegexMatch2" />
       </list>
     </recent_temporary>
   </component>
@@ -429,15 +431,17 @@
       <workItem from="1552044682784" duration="9742000" />
       <workItem from="1552135469435" duration="16827000" />
       <workItem from="1552529513622" duration="9663000" />
-      <workItem from="1552651314644" duration="2996000" />
+      <workItem from="1552651314644" duration="3140000" />
+      <workItem from="1552738044624" duration="3328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136865000" />
+    <option name="totallyTimeSpent" value="140337000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -449,12 +453,12 @@
       <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17004265" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1716418" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17750533" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -519,7 +523,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/mypackage/sb1.wsdl" />
     <entry file="file://$PROJECT_DIR$/src/newcode/CircleArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
@@ -669,7 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="342" column="50" lean-forward="false" selection-start-line="342" selection-start-column="50" selection-end-line="342" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -715,7 +717,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="57" column="21" lean-forward="true" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -765,12 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="971" column="27" lean-forward="false" selection-start-line="971" selection-start-column="27" selection-end-line="971" selection-end-column="27" />
-          <folding>
-            <element signature="e#36709#36710#0" expanded="false" />
-            <element signature="e#36767#36768#0" expanded="false" />
-            <element signature="e#37304#37305#0" expanded="false" />
-            <element signature="e#37347#37348#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -778,7 +773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
           <caret line="327" column="47" lean-forward="false" selection-start-line="327" selection-start-column="47" selection-end-line="327" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -860,7 +854,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/newcode/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="1225">
           <caret line="49" column="5" lean-forward="false" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -878,7 +872,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/newcode/PrintLinkfromEnd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
+        <state relative-caret-position="1400">
           <caret line="56" column="11" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="64" selection-end-column="21" />
           <folding />
         </state>
@@ -888,16 +882,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="590">
           <caret line="218" column="19" lean-forward="false" selection-start-line="218" selection-start-column="19" selection-end-line="218" selection-end-column="19" />
-          <folding>
-            <element signature="e#8064#8065#0" expanded="true" />
-            <element signature="e#8112#8113#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/newcode/MatrixPath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-58">
+        <state relative-caret-position="250">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding />
         </state>
@@ -905,8 +895,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/newcode/CircleLink.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="179" lean-forward="false" selection-start-line="16" selection-start-column="179" selection-end-line="16" selection-end-column="179" />
+        <state relative-caret-position="78">
+          <caret line="65" column="20" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="74" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/newcode/ReverseLink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="12" column="64" lean-forward="false" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
           <folding />
         </state>
       </provider>

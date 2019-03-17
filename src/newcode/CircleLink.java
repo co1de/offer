@@ -59,7 +59,7 @@ public class CircleLink {
 //            fast = fast.next;
 //        }
 //        return slow;
-    }
+//    }
 
     public static void main(String[] args) {
         CircleLink cl = new CircleLink();
