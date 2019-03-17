@@ -9,7 +9,11 @@ package newcode;
 
 public class MergeLinkList {
     /** 
-    * @Description: 用两个指指向两个链表头，比较大小，依次填入新链表，注意要额外的一个ret记录新链表头 
+    * @Description: 用两个指指向两个链表头，比较大小，依次填入新链表，
+     * 注意要额外的一个ret记录新链表头
+     * ListNode head = new ListNode(-1);
+        ListNode cur = head;
+     * 采用这种方式也比较巧妙，最后返回head.next就是结果链表
     * @Param:  
     * @return:  
     * @Author: co1de
