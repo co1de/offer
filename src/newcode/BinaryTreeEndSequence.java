@@ -15,7 +15,7 @@ public class BinaryTreeEndSequence {
     }
 
     private boolean verify(int start, int end, int[] sequence) {
-//      单节点直接返回true
+//      前面所有划分都成立，总能分成左边比右边小的部分并且分成了单个元素，这接返回true即可。
         if (end-start<1) return true;
         //当前根节点
         int root = sequence[end];
