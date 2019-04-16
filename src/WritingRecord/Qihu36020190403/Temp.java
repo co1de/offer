@@ -1,7 +1,5 @@
-package Qihu36020190403;
+package WritingRecord.Qihu36020190403;
 
-import java.io.InputStream;
-import java.util.Collections;
 import java.util.Scanner;
 
 /**

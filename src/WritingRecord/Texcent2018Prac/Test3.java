@@ -1,4 +1,4 @@
-package Texcent2018Prac;
+package WritingRecord.Texcent2018Prac;
 
 /**
  * @program: offer

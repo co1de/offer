@@ -1,6 +1,5 @@
-package Texcent2018Prac;
+package WritingRecord.Texcent2018Prac;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 /**

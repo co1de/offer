@@ -1,4 +1,4 @@
-package Qihu36020190403;
+package WritingRecord.Qihu36020190403;
 
 import java.util.Scanner;
 

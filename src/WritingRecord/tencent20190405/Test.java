@@ -1,6 +1,5 @@
-package tencent20190405;
+package WritingRecord.tencent20190405;
 
-import java.util.Scanner;
 import java.util.Stack;
 
 /**
