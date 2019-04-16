@@ -1,49 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef22809c-c261-4985-be1f-e4dbc8e86510" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WritingRecord/WeBank20190411/51e65896140cddfb8aa6f8dff838880.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/newcode/SerilazationBST.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Qihu36020190403/Temp.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Qihu36020190403/Temp2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Qihu36020190403/Temp3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Qihu36020190403/temp1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Qihu36020190403/temp2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Qihu36020190403/temp3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Texcent2018Prac/ArrangeMachine.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Texcent2018Prac/CardGame.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Texcent2018Prac/MrQ.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Texcent2018Prac/MrQSong.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Texcent2018Prac/Test3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Texcent2018Prac/TurnOverArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tencent20190405/0f70036e858ad2c360b06cc050b1d1e.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tencent20190405/1dbc5d54786d092ea5fe3da1588e3a4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tencent20190405/Test.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tencent20190405/Test2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tencent20190405/Test3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tencent20190405/ac73dfa6528041af681c44dd4e3fc92.png" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Qihu36020190403/Temp.java" afterPath="$PROJECT_DIR$/src/WritingRecord/Qihu36020190403/Temp.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Qihu36020190403/Temp2.java" afterPath="$PROJECT_DIR$/src/WritingRecord/Qihu36020190403/Temp2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Qihu36020190403/Temp3.java" afterPath="$PROJECT_DIR$/src/WritingRecord/Qihu36020190403/Temp3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Qihu36020190403/temp1.png" afterPath="$PROJECT_DIR$/src/WritingRecord/Qihu36020190403/temp1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Qihu36020190403/temp2.png" afterPath="$PROJECT_DIR$/src/WritingRecord/Qihu36020190403/temp2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Qihu36020190403/temp3.png" afterPath="$PROJECT_DIR$/src/WritingRecord/Qihu36020190403/temp3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Texcent2018Prac/ArrangeMachine.java" afterPath="$PROJECT_DIR$/src/WritingRecord/Texcent2018Prac/ArrangeMachine.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Texcent2018Prac/CardGame.java" afterPath="$PROJECT_DIR$/src/WritingRecord/Texcent2018Prac/CardGame.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Texcent2018Prac/MrQ.java" afterPath="$PROJECT_DIR$/src/WritingRecord/Texcent2018Prac/MrQ.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Texcent2018Prac/MrQSong.java" afterPath="$PROJECT_DIR$/src/WritingRecord/Texcent2018Prac/MrQSong.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Texcent2018Prac/Test3.java" afterPath="$PROJECT_DIR$/src/WritingRecord/Texcent2018Prac/Test3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Texcent2018Prac/TurnOverArray.java" afterPath="$PROJECT_DIR$/src/WritingRecord/Texcent2018Prac/TurnOverArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/tencent20190405/0f70036e858ad2c360b06cc050b1d1e.png" afterPath="$PROJECT_DIR$/src/WritingRecord/tencent20190405/0f70036e858ad2c360b06cc050b1d1e.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/tencent20190405/1dbc5d54786d092ea5fe3da1588e3a4.png" afterPath="$PROJECT_DIR$/src/WritingRecord/tencent20190405/1dbc5d54786d092ea5fe3da1588e3a4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/tencent20190405/Test.java" afterPath="$PROJECT_DIR$/src/WritingRecord/tencent20190405/Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/tencent20190405/Test2.java" afterPath="$PROJECT_DIR$/src/WritingRecord/tencent20190405/Test2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/tencent20190405/Test3.java" afterPath="$PROJECT_DIR$/src/WritingRecord/tencent20190405/Test3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/tencent20190405/ac73dfa6528041af681c44dd4e3fc92.png" afterPath="$PROJECT_DIR$/src/WritingRecord/tencent20190405/ac73dfa6528041af681c44dd4e3fc92.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="ef22809c-c261-4985-be1f-e4dbc8e86510" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -110,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="25">
-              <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -513,16 +471,15 @@
       <workItem from="1554895335641" duration="9233000" />
       <workItem from="1554982606763" duration="14884000" />
       <workItem from="1555065644074" duration="7245000" />
-      <workItem from="1555416117386" duration="5803000" />
+      <workItem from="1555416117386" duration="6071000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="288893000" />
+    <option name="totallyTimeSpent" value="289161000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -541,10 +498,10 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32826087" sideWeight="0.49573562" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.49573562" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Sequence" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.59347826" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.59347826" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20628998" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1003,7 +960,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
-          <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
