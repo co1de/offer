@@ -1,5 +1,7 @@
 package newcode;
 
+import java.lang.reflect.Array;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;
@@ -92,7 +94,7 @@ public class ManyThanHalfNumber {
     }
 
     /** 
-    * @Description: 用连续子数组最大和相似的方式，用一个cnt记录数字出现的次数，cnt清零后则重新计数 
+    * @Description: 用连续子数组最大和相似的方式，用一个cnt记录数字出现的次数，cnt清零后则重新计数
     * @Param:  
     * @return:  
     * @Author: co1de
