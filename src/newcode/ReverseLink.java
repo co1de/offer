@@ -36,6 +36,57 @@ public class ReverseLink {
         return fast;
     }
 
+    public ListNode myReverseList(ListNode head) {
+        ListNode reListHead = null;
+        ListNode cur = head;
+        while (cur != null) {
+            //先记录原链的下一个节点，防止断链
+            ListNode next = cur.next;
+            //将当前节点的下一个节点指向倒序节点的头
+            cur.next = reListHead;
+            //倒序链增长了1，移动到当前位置
+            reListHead = cur;
+            //将当前位置挪动到原链的下一个节点上
+            cur = next;
+        }
+        return reListHead;
+    }
+
+    public ListNode myPartReverse(ListNode head, int start, int end) {
+        ListNode preNode = null;
+        ListNode endNode = null;
+        ListNode cur = head;
+        int pos = 1;
+        //找到首尾开始位置
+        while (cur != null) {
+            if (pos==start-1) preNode = cur;
+            if (pos==end+1) endNode = cur;
+            cur = cur.next;
+            pos++;
+        }
+
+//        ListNode reNode = preNode.next;
+//        cur = reNode.next;
+        //连接到尾部
+//        reNode.next = endNode;
+
+        //开始交换部分位置,这一部和第三步相当于把原来的null头换为了当前头
+        ListNode reNode = endNode;
+        cur = preNode.next;
+
+        while (cur != endNode) {
+            ListNode next = cur.next;
+            cur.next = reNode;
+            reNode = cur;
+            cur = next;
+        }
+
+        //连接前后
+        preNode.next = reNode;
+        return head;
+
+    }
+
     public static void main(String[] args) {
         ReverseLink rl = new ReverseLink();
         ListNode n1 = new ListNode(1);
@@ -47,7 +98,13 @@ public class ReverseLink {
         n2.next=n3;
         n3.next=n4;
         n4.next=n5;
-        n5.next=n3;
-        System.out.println(rl.ReverseList(n1));
+//        n5.next=n3;
+//        System.out.println(rl.ReverseList(n1));
+        rl.myPartReverse(n1, 2, 4);
+//        rl.reverseSublist(n1,2,4);
+        while (n1 != null) {
+            System.out.println(n1.val);
+            n1=n1.next;
+        }
     }
 }

@@ -15,7 +15,7 @@ public class StringArrange {
     private ArrayList<String> ret = new ArrayList<>();
     public ArrayList<String> Permutation(String str) {
         char[] t = str.toCharArray();
-//        Arrays.sort(t);
+//        Arrays.base(t);
         permutation(t, 0, str.length()-1);
         //结果要是字典序..
         Collections.sort(ret);

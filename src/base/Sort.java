@@ -1,4 +1,4 @@
-package sort;
+package base;
 
 /**
  * @program: offer
@@ -254,6 +254,19 @@ public class Sort {
         return result;
     }
 
+    public static int binarySerach(int[] arr,int goal) {
+        int low = 0, high = arr.length - 1;
+        while (low <= high) {
+            int middle = low + (high - low) / 2;
+            if (arr[middle] < goal) {
+                low = middle+1;
+            } else if (arr[middle] > goal) {
+                high = middle-1;
+            }else return middle;
+        }
+        return low;
+    }
+
 //    static class MaxHeap{
 //        private int[] temp;
 //        private int size = 0;
@@ -341,6 +354,7 @@ public class Sort {
 //        Sort.quickSortBy3Way(a, 0, a.length - 1);
 //        System.out.println(Sort.binarySearch(a,3,0,a.length-1));
         Sort.heapSort(a);
+        System.out.println(Sort.binarySerach(a, 4));
         for (int i : a) {
             System.out.print(i+" ");
         }
