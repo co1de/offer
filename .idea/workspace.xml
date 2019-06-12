@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef22809c-c261-4985-be1f-e4dbc8e86510" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/base/MaxHeap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newcode/ReverseLink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/newcode/ReverseLink.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newcode/StringArrange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/newcode/StringArrange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/MaxHeap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/Sort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,19 +21,111 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/newcode/ReverseLink.java">
+        <entry file="file://$PROJECT_DIR$/src/newcode/MinK.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1603">
+              <caret line="84" column="13" lean-forward="true" selection-start-line="84" selection-start-column="13" selection-end-line="84" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/base/Sort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="205" column="28" lean-forward="true" selection-start-line="205" selection-start-column="28" selection-end-line="205" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/newcode/MinNumFromArr.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="70" column="32" lean-forward="true" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
+              <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/newcode/FirstUnDump.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#774#775#0" expanded="true" />
+                <element signature="e#799#800#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/newcode/ContinueMaxSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/newcode/HowMany1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="753">
+              <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+              <folding>
+                <element signature="e#770#771#0" expanded="true" />
+                <element signature="e#793#794#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/newcode/DecodeWays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1591">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/base/dpNum129.java">
+        <entry file="file://$PROJECT_DIR$/src/newcode/GiftMaxValue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="92" column="26" lean-forward="true" selection-start-line="92" selection-start-column="26" selection-end-line="92" selection-end-column="26" />
+            <state relative-caret-position="100">
+              <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="1941" column="16" lean-forward="true" selection-start-line="1941" selection-start-column="16" selection-end-line="1941" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,6 +150,8 @@
       <find>add</find>
       <find>ConcurrentModificationException</find>
       <find>synchronizedlist</find>
+      <find>int[][] a</find>
+      <find>[</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -75,13 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/newcode/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/newcode/TreeSubArch.java" />
-        <option value="$PROJECT_DIR$/src/newcode/MirrorTree.java" />
-        <option value="$PROJECT_DIR$/src/newcode/SymmetryTree.java" />
-        <option value="$PROJECT_DIR$/src/newcode/PrintMatrix.java" />
-        <option value="$PROJECT_DIR$/src/newcode/MinStack.java" />
-        <option value="$PROJECT_DIR$/src/newcode/StackInPop.java" />
         <option value="$PROJECT_DIR$/src/newcode/PrintBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/newcode/Solution.java" />
         <option value="$PROJECT_DIR$/src/newcode/BinaryTreeEndSequence.java" />
@@ -123,15 +205,22 @@
         <option value="$PROJECT_DIR$/src/sort/Sort.java" />
         <option value="$PROJECT_DIR$/src/sort/MaxHeap.java" />
         <option value="$PROJECT_DIR$/src/sort/BinarySearchTree.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/newcode/ReverseLink.java" />
         <option value="$PROJECT_DIR$/src/base/dpNum129.java" />
+        <option value="$PROJECT_DIR$/src/newcode/StreamMiddle.java" />
+        <option value="$PROJECT_DIR$/src/newcode/FirstUnDump.java" />
+        <option value="$PROJECT_DIR$/src/newcode/ContinueMaxSum.java" />
+        <option value="$PROJECT_DIR$/src/newcode/MinNumFromArr.java" />
+        <option value="$PROJECT_DIR$/src/newcode/HowMany1.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/newcode/DecodeWays.java" />
+        <option value="$PROJECT_DIR$/src/newcode/GiftMaxValue.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
+    <option name="x" value="1628" />
+    <option name="y" value="141" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -158,7 +247,7 @@
               <item name="offer" type="b2602c69:ProjectViewProjectNode" />
               <item name="offer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="newcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="offer" type="b2602c69:ProjectViewProjectNode" />
@@ -210,13 +299,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.dpNum129">
-    <configuration name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.BinarySearchTree" />
+  <component name="RunManager" selected="Application.GiftMaxValue">
+    <configuration name="DecodeWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newcode.DecodeWays" />
       <module name="offer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="base.*" />
+          <option name="PATTERN" value="newcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GiftMaxValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newcode.GiftMaxValue" />
+      <module name="offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="newcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,19 +346,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.Sort" />
-      <module name="offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="dpNum129" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="base.dpNum129" />
       <module name="offer" />
@@ -271,19 +360,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Sort" />
-      <item itemvalue="Application.BinarySearchTree" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.ReverseLink" />
       <item itemvalue="Application.dpNum129" />
+      <item itemvalue="Application.DecodeWays" />
+      <item itemvalue="Application.GiftMaxValue" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GiftMaxValue" />
+        <item itemvalue="Application.DecodeWays" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.dpNum129" />
         <item itemvalue="Application.ReverseLink" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.BinarySearchTree" />
-        <item itemvalue="Application.Sort" />
       </list>
     </recent_temporary>
   </component>
@@ -351,12 +440,12 @@
       <workItem from="1558699248511" duration="5749000" />
       <workItem from="1559044118370" duration="7356000" />
       <workItem from="1559117453168" duration="24803000" />
-      <workItem from="1559646801837" duration="20711000" />
+      <workItem from="1559646801837" duration="56180000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="367193000" />
+    <option name="totallyTimeSpent" value="402662000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -552,12 +641,6 @@
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>70</line>
-          <properties />
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/newcode/ReverseLink.java</url>
           <line>67</line>
           <properties />
@@ -569,19 +652,16 @@
           <properties />
           <option name="timeStamp" value="66" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/newcode/GiftMaxValue.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/WritingRecord/Texcent2018Prac/MrQ.java" />
-    <entry file="file://$PROJECT_DIR$/src/WritingRecord/Texcent2018Prac/CardGame.java" />
-    <entry file="file://$PROJECT_DIR$/src/WritingRecord/Qihu36020190403/Temp3.java" />
-    <entry file="file://$PROJECT_DIR$/src/WritingRecord/Qihu36020190403/Temp.java" />
-    <entry file="file://$PROJECT_DIR$/src/WritingRecord/Qihu36020190403/temp3.png" />
-    <entry file="file://$PROJECT_DIR$/src/WritingRecord/Qihu36020190403/Temp2.java" />
-    <entry file="file://$PROJECT_DIR$/src/WritingRecord/Qihu36020190403/temp1.png" />
-    <entry file="file://$PROJECT_DIR$/src/WritingRecord/Qihu36020190403/temp2.png" />
-    <entry file="file://$PROJECT_DIR$/src/WritingRecord/WeBank20190411/e48c94e6f7fc289d64c59db12a28f89.png" />
     <entry file="file://$PROJECT_DIR$/src/WritingRecord/WeBank20190411/51e65896140cddfb8aa6f8dff838880.png" />
     <entry file="file://$PROJECT_DIR$/src/WritingRecord/WeBank20190411/fd498865c6f55da755717e6a34d6d9e.png" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/TreeSet.java">
@@ -710,17 +790,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5850">
-          <caret line="333" column="19" selection-start-line="333" selection-start-column="19" selection-end-line="333" selection-end-column="19" />
-          <folding>
-            <element signature="e#12158#12159#0" expanded="true" />
-            <element signature="e#12189#12190#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/TreeMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="890">
@@ -734,34 +803,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../上机作业/src/Homework1.java" />
     <entry file="file://$PROJECT_DIR$/../../上机作业/src/Homework2.java" />
-    <entry file="file://$PROJECT_DIR$/src/newcode/MinK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2350">
-          <caret line="98" selection-start-line="98" selection-end-line="103" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/base/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" selection-start-line="11" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/base/MaxHeap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding>
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
@@ -783,17 +824,6 @@
           <folding>
             <element signature="e#46394#46395#0" expanded="true" />
             <element signature="e#46458#46459#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/base/BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="104" column="22" selection-start-line="104" selection-start-column="22" selection-end-line="104" selection-end-column="22" />
-          <folding>
-            <element signature="e#1626#1627#0" expanded="true" />
-            <element signature="e#1665#1666#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -839,16 +869,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="87" column="41" selection-start-line="87" selection-start-column="41" selection-end-line="87" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/newcode/ReverseLink.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -858,8 +878,158 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/base/dpNum129.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="92" column="26" lean-forward="true" selection-start-line="92" selection-start-column="26" selection-end-line="92" selection-end-column="26" />
+        <state relative-caret-position="-225">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/base/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="96" column="39" lean-forward="true" selection-start-line="96" selection-start-column="39" selection-end-line="96" selection-end-column="39" />
+          <folding>
+            <element signature="e#1626#1627#0" expanded="true" />
+            <element signature="e#1665#1666#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/base/MaxHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/newcode/StreamMiddle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="172" column="28" lean-forward="true" selection-start-line="172" selection-start-column="28" selection-end-line="172" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="585" column="4" lean-forward="true" selection-start-line="585" selection-start-column="4" selection-end-line="585" selection-end-column="4" />
+          <folding>
+            <element signature="e#4308#4309#0" expanded="true" />
+            <element signature="e#4360#4361#0" expanded="true" />
+            <element signature="e#5287#5288#0" expanded="true" />
+            <element signature="e#5345#5346#0" expanded="true" />
+            <element signature="e#12158#12159#0" expanded="true" />
+            <element signature="e#12189#12190#0" expanded="true" />
+            <element signature="e#12949#12979#0" expanded="true" />
+            <element signature="e#13000#13001#0" expanded="true" />
+            <element signature="e#13056#13057#0" expanded="true" />
+            <element signature="e#21520#21550#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/newcode/FirstUnDump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/newcode/ContinueMaxSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/newcode/MinK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1603">
+          <caret line="84" column="13" lean-forward="true" selection-start-line="84" selection-start-column="13" selection-end-line="84" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/newcode/HowMany1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="753">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+          <folding>
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#793#794#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/newcode/MinNumFromArr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/base/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="205" column="28" lean-forward="true" selection-start-line="205" selection-start-column="28" selection-end-line="205" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="1941" column="16" lean-forward="true" selection-start-line="1941" selection-start-column="16" selection-end-line="1941" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/newcode/DecodeWays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1591">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/newcode/GiftMaxValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
         </state>
       </provider>
     </entry>
