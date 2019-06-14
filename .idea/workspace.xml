@@ -4,7 +4,10 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef22809c-c261-4985-be1f-e4dbc8e86510" name="Default" comment="" />
+    <list default="true" id="ef22809c-c261-4985-be1f-e4dbc8e86510" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newcode/FirstCommonNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/newcode/FirstCommonNode.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/newcode/FirstCommonNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+            <state relative-caret-position="253">
+              <caret line="40" column="18" lean-forward="true" selection-start-line="36" selection-end-line="61" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -361,12 +364,12 @@
       <workItem from="1559044118370" duration="7356000" />
       <workItem from="1559117453168" duration="24803000" />
       <workItem from="1559646801837" duration="67859000" />
-      <workItem from="1560394803650" duration="23565000" />
+      <workItem from="1560394803650" duration="24581000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="437906000" />
+    <option name="totallyTimeSpent" value="438922000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -381,7 +384,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22121535" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22121535" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -396,7 +399,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2646421" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2646421" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.3275488" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32827735" />
@@ -995,8 +998,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/newcode/FirstCommonNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        <state relative-caret-position="253">
+          <caret line="40" column="18" lean-forward="true" selection-start-line="36" selection-end-line="61" selection-end-column="24" />
         </state>
       </provider>
     </entry>
