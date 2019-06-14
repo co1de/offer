@@ -4,9 +4,7 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef22809c-c261-4985-be1f-e4dbc8e86510" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/newcode/InversePairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/newcode/InversePairs.java" afterDir="false" />
-    </list>
+    <list default="true" id="ef22809c-c261-4985-be1f-e4dbc8e86510" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,11 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/newcode/InversePairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="289">
+              <caret line="43" column="36" lean-forward="true" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/newcode/FirstCommonNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -71,7 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/newcode/RandomListNode.java" />
         <option value="$PROJECT_DIR$/src/newcode/CopyComplicatedLinkList.java" />
         <option value="$PROJECT_DIR$/src/newcode/BST2LinkList.java" />
         <option value="$PROJECT_DIR$/src/Temp.java" />
@@ -122,6 +128,7 @@
         <option value="$PROJECT_DIR$/src/newcode/UglyNumber.java" />
         <option value="$PROJECT_DIR$/src/newcode/FirstOnceCharacter.java" />
         <option value="$PROJECT_DIR$/src/newcode/InversePairs.java" />
+        <option value="$PROJECT_DIR$/src/newcode/FirstCommonNode.java" />
       </list>
     </option>
   </component>
@@ -150,12 +157,6 @@
               <item name="offer" type="b2602c69:ProjectViewProjectNode" />
               <item name="offer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="offer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="offer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="offer" type="b2602c69:ProjectViewProjectNode" />
@@ -360,12 +361,12 @@
       <workItem from="1559044118370" duration="7356000" />
       <workItem from="1559117453168" duration="24803000" />
       <workItem from="1559646801837" duration="67859000" />
-      <workItem from="1560394803650" duration="19637000" />
+      <workItem from="1560394803650" duration="23565000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="433978000" />
+    <option name="totallyTimeSpent" value="437906000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -380,22 +381,22 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.22121535" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22121535" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="JRebel" order="4" side_tool="true" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Structure" order="7" visible="true" weight="0.18443497" />
+      <window_info id="Structure" order="7" weight="0.18443497" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49573562" visible="true" weight="0.3275488" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49573562" weight="0.3275488" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2505423" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2646421" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2646421" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.3275488" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32827735" />
@@ -613,13 +614,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33875">
-          <caret line="1411" column="33" selection-start-line="1411" selection-start-column="33" selection-end-line="1411" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/StringBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
@@ -994,8 +988,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/newcode/InversePairs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="289">
+          <caret line="43" column="36" lean-forward="true" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/newcode/FirstCommonNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
         </state>
       </provider>
     </entry>
