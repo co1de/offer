@@ -4,9 +4,7 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef22809c-c261-4985-be1f-e4dbc8e86510" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ef22809c-c261-4985-be1f-e4dbc8e86510" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,11 +26,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/newcode/JudgeIfBST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="10" selection-start-line="10" selection-end-line="34" selection-end-column="5" />
+            <state relative-caret-position="275">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/newcode/OnceNumberInArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -71,7 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Temp3.java" />
         <option value="$PROJECT_DIR$/src/Qihu36020190403/Temp.java" />
         <option value="$PROJECT_DIR$/src/Qihu36020190403/Temp3.java" />
         <option value="$PROJECT_DIR$/src/Texcent2018Prac/CardGame.java" />
@@ -122,6 +128,7 @@
         <option value="$PROJECT_DIR$/src/newcode/BSTNumK.java" />
         <option value="$PROJECT_DIR$/src/newcode/DepthOfTree.java" />
         <option value="$PROJECT_DIR$/src/newcode/JudgeIfBST.java" />
+        <option value="$PROJECT_DIR$/src/newcode/OnceNumberInArray.java" />
       </list>
     </option>
   </component>
@@ -206,20 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumAppearTimes">
-    <configuration name="GiftMaxValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="newcode.GiftMaxValue" />
-      <module name="offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="newcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.OnceNumberInArray">
     <configuration name="InversePairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="newcode.InversePairs" />
       <module name="offer" />
@@ -259,6 +253,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OnceNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newcode.OnceNumberInArray" />
+      <module name="offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="newcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UglyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="newcode.UglyNumber" />
       <module name="offer" />
@@ -273,19 +280,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.GiftMaxValue" />
       <item itemvalue="Application.MaxLengthUndumpSubString" />
       <item itemvalue="Application.UglyNumber" />
       <item itemvalue="Application.InversePairs" />
       <item itemvalue="Application.NumAppearTimes" />
+      <item itemvalue="Application.OnceNumberInArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OnceNumberInArray" />
         <item itemvalue="Application.NumAppearTimes" />
         <item itemvalue="Application.InversePairs" />
         <item itemvalue="Application.UglyNumber" />
         <item itemvalue="Application.MaxLengthUndumpSubString" />
-        <item itemvalue="Application.GiftMaxValue" />
       </list>
     </recent_temporary>
   </component>
@@ -355,12 +362,12 @@
       <workItem from="1559117453168" duration="24803000" />
       <workItem from="1559646801837" duration="67859000" />
       <workItem from="1560394803650" duration="24909000" />
-      <workItem from="1560517552238" duration="6998000" />
+      <workItem from="1560517552238" duration="9004000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="446248000" />
+    <option name="totallyTimeSpent" value="448254000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -375,7 +382,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22334754" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22334754" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -385,12 +392,12 @@
       <window_info id="Structure" order="7" weight="0.18443497" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49573562" weight="0.3275488" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49573562" visible="true" weight="0.3275488" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2505423" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2646421" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2646421" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.3275488" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32827735" />
@@ -614,7 +621,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/WritingRecord/WeBank20190411/Solution.java" />
     <entry file="file://$PROJECT_DIR$/src/Main1.java" />
     <entry file="file://$PROJECT_DIR$/src/newcode/SerilazationBST.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1013,8 +1019,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/newcode/JudgeIfBST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="10" selection-start-line="10" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="275">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/newcode/OnceNumberInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
         </state>
       </provider>
     </entry>
