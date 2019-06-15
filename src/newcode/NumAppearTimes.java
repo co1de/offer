@@ -72,8 +72,8 @@ public class NumAppearTimes {
             int first = binarySearchTimes(array, k-0.5);
             int last = binarySearchTimes(array, k+0.5);
             if (first != -1 && last != -1) {
-                //注意这里，不用+1了，因为k-0.5搜到的是比k-0.5小的（目标值前方的一个值），k+0.5搜到的比k+0.5小的（目标值）
-                //二者差即为目标值个数，比如1，2，2，2，前者搜到1，后者搜到最后一个2
+                //注意这里，不用+1了，因为k-0.5搜到的是起始值，k+0.5搜到的比k+0.5大的（比目标值大的下一个）
+                //二者差即为目标值个数，比如1，2，2，2，前者搜到1，后者搜到4
                 ret = last - first ;
             }
         }
@@ -91,5 +91,13 @@ public class NumAppearTimes {
             }
         }
         return low;
+    }
+
+    public static void main(String[] args) {
+        int[] a = {1, 2, 2, 2};
+
+         System.out.println(new NumAppearTimes().binarySearchTimes(a,2-0.5));
+        System.out.println(new NumAppearTimes().binarySearchTimes(a,2+0.5));
+
     }
 }

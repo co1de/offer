@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef22809c-c261-4985-be1f-e4dbc8e86510" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newcode/NumAppearTimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/newcode/NumAppearTimes.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,11 +37,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/newcode/NumAppearTimes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="75" column="54" selection-start-line="75" selection-start-column="54" selection-end-line="75" selection-end-column="54" />
+            <state relative-caret-position="-9">
+              <caret line="74" column="70" selection-start-line="74" selection-start-column="70" selection-end-line="74" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/newcode/BSTNumK.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -111,7 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/newcode/BST2LinkList.java" />
         <option value="$PROJECT_DIR$/src/Temp.java" />
         <option value="$PROJECT_DIR$/src/newcode/Temp2.java" />
         <option value="$PROJECT_DIR$/src/Temp3.java" />
@@ -162,6 +170,7 @@
         <option value="$PROJECT_DIR$/src/newcode/InversePairs.java" />
         <option value="$PROJECT_DIR$/src/newcode/FirstCommonNode.java" />
         <option value="$PROJECT_DIR$/src/newcode/NumAppearTimes.java" />
+        <option value="$PROJECT_DIR$/src/newcode/BSTNumK.java" />
       </list>
     </option>
   </component>
@@ -189,12 +198,6 @@
               <item name="offer" type="b2602c69:ProjectViewProjectNode" />
               <item name="offer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="offer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="offer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="offer" type="b2602c69:ProjectViewProjectNode" />
@@ -252,20 +255,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InversePairs">
-    <configuration name="DecodeWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="newcode.DecodeWays" />
-      <module name="offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="newcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NumAppearTimes">
     <configuration name="GiftMaxValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="newcode.GiftMaxValue" />
       <module name="offer" />
@@ -305,6 +295,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumAppearTimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newcode.NumAppearTimes" />
+      <module name="offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="newcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UglyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="newcode.UglyNumber" />
       <module name="offer" />
@@ -319,19 +322,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DecodeWays" />
       <item itemvalue="Application.GiftMaxValue" />
       <item itemvalue="Application.MaxLengthUndumpSubString" />
       <item itemvalue="Application.UglyNumber" />
       <item itemvalue="Application.InversePairs" />
+      <item itemvalue="Application.NumAppearTimes" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumAppearTimes" />
         <item itemvalue="Application.InversePairs" />
         <item itemvalue="Application.UglyNumber" />
         <item itemvalue="Application.MaxLengthUndumpSubString" />
         <item itemvalue="Application.GiftMaxValue" />
-        <item itemvalue="Application.DecodeWays" />
       </list>
     </recent_temporary>
   </component>
@@ -401,12 +404,12 @@
       <workItem from="1559117453168" duration="24803000" />
       <workItem from="1559646801837" duration="67859000" />
       <workItem from="1560394803650" duration="24909000" />
-      <workItem from="1560517552238" duration="3550000" />
+      <workItem from="1560517552238" duration="5853000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="442800000" />
+    <option name="totallyTimeSpent" value="445103000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -421,7 +424,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22334754" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22334754" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -432,11 +435,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49573562" weight="0.3275488" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2505423" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.2505423" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2646421" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2646421" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.3275488" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32827735" />
@@ -631,6 +634,12 @@
           <properties />
           <option name="timeStamp" value="76" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/newcode/NumAppearTimes.java</url>
+          <line>83</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -654,7 +663,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/WritingRecord/WeBank20190411/Main1.java" />
     <entry file="file://$PROJECT_DIR$/src/WritingRecord/WeBank20190411/Main2.java" />
     <entry file="file://$PROJECT_DIR$/src/WritingRecord/WeBank20190411/Main3.java" />
     <entry file="file://$PROJECT_DIR$/src/WritingRecord/WeBank20190411/Solution.java" />
@@ -1035,8 +1043,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/newcode/NumAppearTimes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="75" column="54" selection-start-line="75" selection-start-column="54" selection-end-line="75" selection-end-column="54" />
+        <state relative-caret-position="-9">
+          <caret line="74" column="70" selection-start-line="74" selection-start-column="70" selection-end-line="74" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/newcode/BSTNumK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
         </state>
       </provider>
     </entry>
