@@ -35,11 +35,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/newcode/OnceNumberInArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+            <state relative-caret-position="245">
+              <caret line="38" column="36" lean-forward="true" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/newcode/SumIsSI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="538">
+              <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -78,7 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Qihu36020190403/Temp.java" />
         <option value="$PROJECT_DIR$/src/Qihu36020190403/Temp3.java" />
         <option value="$PROJECT_DIR$/src/Texcent2018Prac/CardGame.java" />
         <option value="$PROJECT_DIR$/src/Texcent2018Prac/MrQ.java" />
@@ -129,6 +137,7 @@
         <option value="$PROJECT_DIR$/src/newcode/DepthOfTree.java" />
         <option value="$PROJECT_DIR$/src/newcode/JudgeIfBST.java" />
         <option value="$PROJECT_DIR$/src/newcode/OnceNumberInArray.java" />
+        <option value="$PROJECT_DIR$/src/newcode/SumIsSI.java" />
       </list>
     </option>
   </component>
@@ -213,22 +222,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OnceNumberInArray">
+  <component name="RunManager" selected="Application.SumIsSI">
     <configuration name="InversePairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="newcode.InversePairs" />
-      <module name="offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="newcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxLengthUndumpSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="newcode.MaxLengthUndumpSubString" />
       <module name="offer" />
       <extension name="coverage">
         <pattern>
@@ -266,6 +262,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumIsSI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newcode.SumIsSI" />
+      <module name="offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="newcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UglyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="newcode.UglyNumber" />
       <module name="offer" />
@@ -280,19 +289,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MaxLengthUndumpSubString" />
       <item itemvalue="Application.UglyNumber" />
       <item itemvalue="Application.InversePairs" />
       <item itemvalue="Application.NumAppearTimes" />
       <item itemvalue="Application.OnceNumberInArray" />
+      <item itemvalue="Application.SumIsSI" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumIsSI" />
         <item itemvalue="Application.OnceNumberInArray" />
         <item itemvalue="Application.NumAppearTimes" />
         <item itemvalue="Application.InversePairs" />
         <item itemvalue="Application.UglyNumber" />
-        <item itemvalue="Application.MaxLengthUndumpSubString" />
       </list>
     </recent_temporary>
   </component>
@@ -362,12 +371,12 @@
       <workItem from="1559117453168" duration="24803000" />
       <workItem from="1559646801837" duration="67859000" />
       <workItem from="1560394803650" duration="24909000" />
-      <workItem from="1560517552238" duration="9004000" />
+      <workItem from="1560517552238" duration="11719000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="448254000" />
+    <option name="totallyTimeSpent" value="450969000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -392,8 +401,8 @@
       <window_info id="Structure" order="7" weight="0.18443497" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49573562" visible="true" weight="0.3275488" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2505423" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49573562" weight="0.3275488" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.2505423" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
@@ -598,6 +607,12 @@
           <properties />
           <option name="timeStamp" value="77" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/newcode/SumIsSI.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -621,7 +636,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main1.java" />
     <entry file="file://$PROJECT_DIR$/src/newcode/SerilazationBST.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
@@ -1026,8 +1040,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/newcode/OnceNumberInArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        <state relative-caret-position="245">
+          <caret line="38" column="36" lean-forward="true" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/newcode/SumIsSI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
         </state>
       </provider>
     </entry>
