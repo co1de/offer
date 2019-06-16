@@ -74,11 +74,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/newcode/LiftRoundString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+            <state relative-caret-position="433">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/newcode/MaxSlidingWindows.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="445">
+              <caret line="65" column="38" selection-start-line="65" selection-start-column="38" selection-end-line="65" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#915#916#0" expanded="true" />
+                <element signature="e#959#960#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -117,7 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Texcent2018Prac/MrQSong.java" />
         <option value="$PROJECT_DIR$/src/Texcent2018Prac/ArrangeMachine.java" />
         <option value="$PROJECT_DIR$/src/Texcent2018Prac/TurnOverArray.java" />
         <option value="$PROJECT_DIR$/src/Test2.java" />
@@ -168,6 +181,7 @@
         <option value="$PROJECT_DIR$/src/newcode/SumIsSSquence.java" />
         <option value="$PROJECT_DIR$/src/newcode/ReverseString.java" />
         <option value="$PROJECT_DIR$/src/newcode/LiftRoundString.java" />
+        <option value="$PROJECT_DIR$/src/newcode/MaxSlidingWindows.java" />
       </list>
     </option>
   </component>
@@ -252,7 +266,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LiftRoundString">
+  <component name="RunManager" selected="Application.MaxSlidingWindows">
     <configuration name="LiftRoundString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="newcode.LiftRoundString" />
       <module name="offer" />
@@ -266,8 +280,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OnceNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="newcode.OnceNumberInArray" />
+    <configuration name="MaxSlidingWindows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newcode.MaxSlidingWindows" />
       <module name="offer" />
       <extension name="coverage">
         <pattern>
@@ -319,19 +333,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.OnceNumberInArray" />
       <item itemvalue="Application.SumIsSI" />
       <item itemvalue="Application.SumIsSSquence" />
       <item itemvalue="Application.ReverseString" />
       <item itemvalue="Application.LiftRoundString" />
+      <item itemvalue="Application.MaxSlidingWindows" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxSlidingWindows" />
         <item itemvalue="Application.LiftRoundString" />
         <item itemvalue="Application.ReverseString" />
         <item itemvalue="Application.SumIsSSquence" />
         <item itemvalue="Application.SumIsSI" />
-        <item itemvalue="Application.OnceNumberInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -401,12 +415,12 @@
       <workItem from="1559117453168" duration="24803000" />
       <workItem from="1559646801837" duration="67859000" />
       <workItem from="1560394803650" duration="24909000" />
-      <workItem from="1560517552238" duration="20616000" />
+      <workItem from="1560517552238" duration="23481000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="459866000" />
+    <option name="totallyTimeSpent" value="462731000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -683,16 +697,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/newcode/StringArrange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/newcode/StackInPop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -1094,8 +1098,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/newcode/LiftRoundString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+        <state relative-caret-position="433">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/newcode/MaxSlidingWindows.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="65" column="38" selection-start-line="65" selection-start-column="38" selection-end-line="65" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#915#916#0" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
