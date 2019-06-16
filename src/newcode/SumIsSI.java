@@ -11,7 +11,7 @@ import java.util.ArrayList;
 
 public class SumIsSI {
     /** 
-    * @Description: 思路：利用头尾两个指针进行判断 
+    * @Description: 思路：利用头尾两个指针进行判断,乘积最小是个迷惑条件，较小乘较大总比中间的乘积小
     * @Param:  
     * @return:  
     * @Author: co1de
