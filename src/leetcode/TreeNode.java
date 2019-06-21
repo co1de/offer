@@ -7,5 +7,9 @@ package leetcode;
  * @create: 2019-06-17 16:47
  **/
 
-public class TreeNode {
-}
+  public class TreeNode {
+      int val;
+     TreeNode left;
+     TreeNode right;
+      TreeNode(int x) { val = x; }
+ }

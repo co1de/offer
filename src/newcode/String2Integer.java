@@ -8,4 +8,22 @@ package newcode;
  **/
 
 public class String2Integer {
+    public int StrToInt(String str) {
+        if (str == null || str.length() == 0) {
+            return 0;
+        }
+        int ret=0;
+        boolean negative = str.charAt(0)=='-'?true:false;
+        for (int i = 0; i < str.length(); i++) {
+            char t = str.charAt(i);
+            if (i == 0 && (t == '+' || t == '-')) {
+                continue;
+            }
+            if (t < '0' || t > '9') {
+                return 0;
+            }
+            ret = t-'0'+ret*10;
+        }
+        return negative==true?-ret:ret;
+    }
 }
