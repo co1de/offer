@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ef22809c-c261-4985-be1f-e4dbc8e86510" name="Default" comment="find binary tree next node in inorder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/Sort.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,9 +65,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RotateArr">
+  <component name="RunManager" selected="Application.MoveZero">
     <configuration name="MaxPlusSeq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.altheme.MaxPlusSeq" />
+      <module name="offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.altheme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoveZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.altheme.MoveZero" />
       <module name="offer" />
       <extension name="coverage">
         <pattern>
@@ -119,27 +131,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="offer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.test" />
       <item itemvalue="Application.Robot" />
       <item itemvalue="Application.Translate" />
       <item itemvalue="Application.MaxPlusSeq" />
       <item itemvalue="Application.RotateArr" />
+      <item itemvalue="Application.MoveZero" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MoveZero" />
         <item itemvalue="Application.RotateArr" />
         <item itemvalue="Application.MaxPlusSeq" />
         <item itemvalue="Application.Translate" />
         <item itemvalue="Application.Robot" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +230,7 @@
       <workItem from="1567411313088" duration="2714000" />
       <workItem from="1567654960163" duration="52600000" />
       <workItem from="1568009400734" duration="24496000" />
-      <workItem from="1568087684170" duration="1184000" />
+      <workItem from="1568087684170" duration="3200000" />
     </task>
     <task id="LOCAL-00001" summary="find binary tree next node in inorder">
       <created>1560851700785</created>
@@ -509,6 +514,11 @@
           <url>file://$PROJECT_DIR$/src/leetcode/altheme/RotateArr.java</url>
           <line>12</line>
           <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/altheme/MoveZero.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="116" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
