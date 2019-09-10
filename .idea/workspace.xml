@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ef22809c-c261-4985-be1f-e4dbc8e86510" name="Default" comment="find binary tree next node in inorder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/Sort.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,33 +25,8 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>*</find>
-      <find>mark</find>
-      <find>middle</find>
-      <find>collection</find>
-      <find>iterator</find>
-      <find>size</find>
-      <find>add</find>
-      <find>ConcurrentModificationException</find>
-      <find>synchronizedlist</find>
-      <find>int[][] a</find>
-      <find>[</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-      <replace>mark</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
   </component>
   <component name="ProjectId" id="1Q2N1O08018o1yDkkA5IJOZD0g4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -60,20 +36,22 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../engine-wang/engine/engine_java" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.31149426" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\56256\Desktop\personal\offer\src\WritingRecord\WeBank20190411" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\56256\Desktop\personal\offer\src" />
       <recent name="C:\Users\56256\Desktop\personal\offer\src\WeBank20190411" />
       <recent name="C:\Users\56256\Desktop\personal\offer\src\tencent20190405" />
       <recent name="C:\Users\56256\Desktop\personal\offer\src\Qihu36020190403" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\56256\Desktop\personal\offer\src\WritingRecord\WeBank20190411" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -88,20 +66,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.dpNum129">
-    <configuration name="BasePlayerProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasePlayerProxy" />
-      <module name="offer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JosePhuseRing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="newcode.JosePhuseRing" />
+  <component name="RunManager" selected="Application.RotateArr">
+    <configuration name="MaxPlusSeq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.altheme.MaxPlusSeq" />
       <module name="offer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="newcode.*" />
+          <option name="PATTERN" value="leetcode.altheme.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.MaxProfit" />
+    <configuration name="Robot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WritingRecord.toutiao0908.Robot" />
       <module name="offer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="WritingRecord.toutiao0908.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RebuildBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="newcode.RebuildBinaryTree" />
+    <configuration name="RotateArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.altheme.RotateArr" />
       <module name="offer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="newcode.*" />
+          <option name="PATTERN" value="leetcode.altheme.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,33 +106,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dpNum129" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.dpNum129" />
+    <configuration name="Translate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WritingRecord.toutiao0908.Translate" />
       <module name="offer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="base.*" />
+          <option name="PATTERN" value="WritingRecord.toutiao0908.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="offer" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.JosePhuseRing" />
-      <item itemvalue="Application.MaxProfit" />
-      <item itemvalue="Application.RebuildBinaryTree" />
-      <item itemvalue="Application.BasePlayerProxy" />
-      <item itemvalue="Application.dpNum129" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.Robot" />
+      <item itemvalue="Application.Translate" />
+      <item itemvalue="Application.MaxPlusSeq" />
+      <item itemvalue="Application.RotateArr" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.dpNum129" />
-        <item itemvalue="Application.BasePlayerProxy" />
-        <item itemvalue="Application.RebuildBinaryTree" />
-        <item itemvalue="Application.MaxProfit" />
-        <item itemvalue="Application.JosePhuseRing" />
+        <item itemvalue="Application.RotateArr" />
+        <item itemvalue="Application.MaxPlusSeq" />
+        <item itemvalue="Application.Translate" />
+        <item itemvalue="Application.Robot" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +220,12 @@
       <workItem from="1566962552307" duration="319000" />
       <workItem from="1566962912361" duration="870000" />
       <workItem from="1566964528388" duration="155000" />
-      <workItem from="1566964731062" duration="1473000" />
+      <workItem from="1566964731062" duration="18057000" />
+      <workItem from="1567043057319" duration="29796000" />
+      <workItem from="1567411313088" duration="2714000" />
+      <workItem from="1567654960163" duration="52600000" />
+      <workItem from="1568009400734" duration="24496000" />
+      <workItem from="1568087684170" duration="1184000" />
     </task>
     <task id="LOCAL-00001" summary="find binary tree next node in inorder">
       <created>1560851700785</created>
@@ -437,156 +420,103 @@
           <line>27</line>
           <option name="timeStamp" value="85" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/T1.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WritingRecord/pdd20190901/Main3.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WritingRecord/pdd20190901/Main32.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WritingRecord/tencent20190901/Main.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/altheme/MultiNumber.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/altheme/SerchMatrix.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/altheme/SerchMatrix.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/altheme/MergeArr.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/altheme/HuiwenString.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/altheme/HuiwenString.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/altheme/NumberOnceCharcter.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/altheme/CutWord.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WritingRecord/toutiao0908/Robot.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WritingRecord/toutiao0908/Robot.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WritingRecord/toutiao0908/Translate.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/altheme/MaxPlusSeq.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/altheme/MaxPlusSeq.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/altheme/RotateArr.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="preStart+i" language="JAVA" />
-        <watch expression="preStart+1" language="JAVA" />
-        <watch expression="inStart" language="JAVA" />
-        <watch expression="inStart+i-1" language="JAVA" />
-        <watch expression="preStart+i+1" language="JAVA" />
-        <watch expression="inStart+i+1" language="JAVA" />
+        <watch expression="a[i]" language="JAVA" />
+        <watch expression="a[j]" language="JAVA" />
       </configuration>
     </watches-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="watch">
-      <expression>
-        <expression-string>inStart+i+1</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>preStart+i+1</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>preStart+i</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>inStart+i-1</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>inStart</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>preStart+i-1</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>preStart+1</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>pre</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>str.length()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s.charAt(i)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Detection</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.31149426" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>offer</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.31149426" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.31149426" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.31149426" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

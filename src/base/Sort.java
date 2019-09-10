@@ -347,7 +347,7 @@ public class Sort {
     }
     public static void main(String[] args) {
         int[] a = {4,5,1,6,2,7,3,8};
-        Sort.bubbleSort(a);
+//        Sort.bubbleSort(a);
 //        Sort.selectSort(a);
 //        Sort.insertSort(a);
 //        Sort.shellSort(a);
@@ -358,7 +358,7 @@ public class Sort {
 //        Sort.quickSortBy3Way(a, 0, a.length - 1);
 //        System.out.println(Sort.binarySearch(a,3,0,a.length-1));
         Sort.heapSort(a);
-        System.out.println(Sort.binarySerach(a, 4));
+//        System.out.println(Sort.binarySerach(a, 4));
         for (int i : a) {
             System.out.print(i+" ");
         }
