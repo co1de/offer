@@ -51,6 +51,17 @@ public class ReverseLink {
         }
         return reListHead;
     }
+    public ListNode ReverseListHeadInsert(ListNode head) {
+        ListNode reListHead = new ListNode(-1);
+        ListNode temp = head;
+        while (head!=null) {
+            temp = head.next;
+            head.next = reListHead.next;
+            reListHead.next = head;
+            head = temp;
+        }
+        return reListHead.next;
+    }
 
     public ListNode myPartReverse(ListNode head, int start, int end) {
         ListNode preNode = null;

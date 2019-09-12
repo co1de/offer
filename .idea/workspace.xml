@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ef22809c-c261-4985-be1f-e4dbc8e86510" name="Default" comment="find binary tree next node in inorder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newcode/ReverseLink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/newcode/ReverseLink.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,9 +66,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MoveZero">
-    <configuration name="MaxPlusSeq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.altheme.MaxPlusSeq" />
+  <component name="RunManager" selected="Application.ProductExceptSelf">
+    <configuration name="IncreasingTriplet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.altheme.IncreasingTriplet" />
       <module name="offer" />
       <extension name="coverage">
         <pattern>
@@ -79,51 +80,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.altheme.MoveZero" />
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WritingRecord.baidu20190910.Main1" />
+      <module name="offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WritingRecord.baidu20190910.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WritingRecord.baidu20190910.Main2" />
+      <module name="offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WritingRecord.baidu20190910.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WritingRecord.baidu20190910.Main3" />
+      <module name="offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WritingRecord.baidu20190910.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductExceptSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.altheme.ProductExceptSelf" />
       <module name="offer" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.altheme.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Robot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WritingRecord.toutiao0908.Robot" />
-      <module name="offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="WritingRecord.toutiao0908.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RotateArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.altheme.RotateArr" />
-      <module name="offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.altheme.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Translate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WritingRecord.toutiao0908.Translate" />
-      <module name="offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="WritingRecord.toutiao0908.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,19 +133,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Robot" />
-      <item itemvalue="Application.Translate" />
-      <item itemvalue="Application.MaxPlusSeq" />
-      <item itemvalue="Application.RotateArr" />
-      <item itemvalue="Application.MoveZero" />
+      <item itemvalue="Application.Main1" />
+      <item itemvalue="Application.Main3" />
+      <item itemvalue="Application.Main2" />
+      <item itemvalue="Application.IncreasingTriplet" />
+      <item itemvalue="Application.ProductExceptSelf" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MoveZero" />
-        <item itemvalue="Application.RotateArr" />
-        <item itemvalue="Application.MaxPlusSeq" />
-        <item itemvalue="Application.Translate" />
-        <item itemvalue="Application.Robot" />
+        <item itemvalue="Application.ProductExceptSelf" />
+        <item itemvalue="Application.IncreasingTriplet" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main3" />
+        <item itemvalue="Application.Main1" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +231,7 @@
       <workItem from="1567411313088" duration="2714000" />
       <workItem from="1567654960163" duration="52600000" />
       <workItem from="1568009400734" duration="24496000" />
-      <workItem from="1568087684170" duration="3200000" />
+      <workItem from="1568087684170" duration="28843000" />
     </task>
     <task id="LOCAL-00001" summary="find binary tree next node in inorder">
       <created>1560851700785</created>
@@ -377,12 +378,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/newcode/ReverseLink.java</url>
-          <line>67</line>
+          <line>78</line>
           <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/newcode/ReverseLink.java</url>
-          <line>102</line>
+          <line>113</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -517,8 +518,33 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/leetcode/altheme/MoveZero.java</url>
-          <line>10</line>
+          <line>11</line>
           <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WritingRecord/baidu20190910/Main1.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WritingRecord/baidu20190910/Main3.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WritingRecord/baidu20190910/Main2.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/altheme/IncreasingTriplet.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/altheme/IncreasingTriplet.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="121" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
