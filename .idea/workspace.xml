@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ef22809c-c261-4985-be1f-e4dbc8e86510" name="Default" comment="find binary tree next node in inorder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newcode/ReverseLink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/newcode/ReverseLink.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +65,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProductExceptSelf">
+  <component name="RunManager" selected="Application.EvalRPN">
+    <configuration name="Calculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.altheme.Calculate" />
+      <module name="offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.altheme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvalRPN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.altheme.EvalRPN" />
+      <module name="offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.altheme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IncreasingTriplet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.altheme.IncreasingTriplet" />
       <module name="offer" />
@@ -80,34 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WritingRecord.baidu20190910.Main1" />
-      <module name="offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="WritingRecord.baidu20190910.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WritingRecord.baidu20190910.Main2" />
-      <module name="offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="WritingRecord.baidu20190910.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WritingRecord.baidu20190910.Main3" />
       <module name="offer" />
       <extension name="coverage">
         <pattern>
@@ -133,19 +132,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main1" />
-      <item itemvalue="Application.Main3" />
       <item itemvalue="Application.Main2" />
       <item itemvalue="Application.IncreasingTriplet" />
       <item itemvalue="Application.ProductExceptSelf" />
+      <item itemvalue="Application.Calculate" />
+      <item itemvalue="Application.EvalRPN" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EvalRPN" />
+        <item itemvalue="Application.Calculate" />
         <item itemvalue="Application.ProductExceptSelf" />
         <item itemvalue="Application.IncreasingTriplet" />
         <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Main3" />
-        <item itemvalue="Application.Main1" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +230,7 @@
       <workItem from="1567411313088" duration="2714000" />
       <workItem from="1567654960163" duration="52600000" />
       <workItem from="1568009400734" duration="24496000" />
-      <workItem from="1568087684170" duration="28843000" />
+      <workItem from="1568087684170" duration="66893000" />
     </task>
     <task id="LOCAL-00001" summary="find binary tree next node in inorder">
       <created>1560851700785</created>
@@ -545,6 +544,21 @@
           <url>file://$PROJECT_DIR$/src/leetcode/altheme/IncreasingTriplet.java</url>
           <line>12</line>
           <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/altheme/ProductExceptSelf.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/altheme/Calculate.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/altheme/EvalRPN.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="125" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
