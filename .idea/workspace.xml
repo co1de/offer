@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ef22809c-c261-4985-be1f-e4dbc8e86510" name="Default" comment="find binary tree next node in inorder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newcode/PrintMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/newcode/PrintMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,13 +67,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EvalRPN">
-    <configuration name="Calculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.altheme.Calculate" />
+  <component name="RunManager" selected="Application.OddEvenList">
+    <configuration name="Main1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WritingRecord.yuanfudao20190916.Main1" />
       <module name="offer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.altheme.*" />
+          <option name="PATTERN" value="WritingRecord.yuanfudao20190916.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,25 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvalRPN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.altheme.EvalRPN" />
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WritingRecord.kuaishou20190916.Main1" />
       <module name="offer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.altheme.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IncreasingTriplet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.altheme.IncreasingTriplet" />
-      <module name="offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.altheme.*" />
+          <option name="PATTERN" value="WritingRecord.kuaishou20190916.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +95,11 @@
       </method>
     </configuration>
     <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WritingRecord.baidu20190910.Main2" />
+      <option name="MAIN_CLASS_NAME" value="WritingRecord.kuaishou20190916.Main2" />
       <module name="offer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WritingRecord.baidu20190910.*" />
+          <option name="PATTERN" value="WritingRecord.kuaishou20190916.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,8 +107,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductExceptSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.altheme.ProductExceptSelf" />
+    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WritingRecord.kuaishou20190916.Main4" />
+      <module name="offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WritingRecord.kuaishou20190916.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddEvenList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.altheme.OddEvenList" />
       <module name="offer" />
       <extension name="coverage">
         <pattern>
@@ -132,19 +134,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main1 (1)" />
       <item itemvalue="Application.Main2" />
-      <item itemvalue="Application.IncreasingTriplet" />
-      <item itemvalue="Application.ProductExceptSelf" />
-      <item itemvalue="Application.Calculate" />
-      <item itemvalue="Application.EvalRPN" />
+      <item itemvalue="Application.Main1" />
+      <item itemvalue="Application.Main4" />
+      <item itemvalue="Application.OddEvenList" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EvalRPN" />
-        <item itemvalue="Application.Calculate" />
-        <item itemvalue="Application.ProductExceptSelf" />
-        <item itemvalue="Application.IncreasingTriplet" />
+        <item itemvalue="Application.OddEvenList" />
+        <item itemvalue="Application.Main4" />
+        <item itemvalue="Application.Main1" />
         <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +232,7 @@
       <workItem from="1567411313088" duration="2714000" />
       <workItem from="1567654960163" duration="52600000" />
       <workItem from="1568009400734" duration="24496000" />
-      <workItem from="1568087684170" duration="66893000" />
+      <workItem from="1568087684170" duration="118182000" />
     </task>
     <task id="LOCAL-00001" summary="find binary tree next node in inorder">
       <created>1560851700785</created>
@@ -559,6 +561,36 @@
           <url>file://$PROJECT_DIR$/src/leetcode/altheme/EvalRPN.java</url>
           <line>9</line>
           <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WritingRecord/wangyihuyu20190914/Main3.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WritingRecord/wangyihuyu20190914/Main1.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/altheme/PalindromeListNode.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WritingRecord/yuanfudao20190916/Main2.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/altheme/OddEvenList.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="138" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
