@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ef22809c-c261-4985-be1f-e4dbc8e86510" name="Default" comment="find binary tree next node in inorder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newcode/PrintMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/newcode/PrintMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -232,7 +230,7 @@
       <workItem from="1567411313088" duration="2714000" />
       <workItem from="1567654960163" duration="52600000" />
       <workItem from="1568009400734" duration="24496000" />
-      <workItem from="1568087684170" duration="118182000" />
+      <workItem from="1568087684170" duration="122510000" />
     </task>
     <task id="LOCAL-00001" summary="find binary tree next node in inorder">
       <created>1560851700785</created>
@@ -589,7 +587,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/leetcode/altheme/OddEvenList.java</url>
-          <line>13</line>
+          <line>14</line>
           <option name="timeStamp" value="138" />
         </line-breakpoint>
       </breakpoints>
